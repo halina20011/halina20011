@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Halina
-This is my YouTube chanel: https://www.youtube.com/channel/UCG0h6r6T1joRASO29JV9qMQ
+- This is my YouTube chanel: https://www.youtube.com/channel/UCG0h6r6T1joRASO29JV9qMQ
 - 👀 I’m interested in Robotics and Programing.
 - 🌱 I’m currently learning c++ computer vision.
 - 📫 How to reach me mariodurakovic99@gmail.com
