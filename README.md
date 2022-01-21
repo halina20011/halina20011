@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Halina
+- 👋 Hi, I’m Halina (Mario)
 - This is my YouTube chanel: https://www.youtube.com/channel/UCG0h6r6T1joRASO29JV9qMQ
 - This is my Website chanel: https://halina-website.firebaseapp.com/
 - 📫 How to reach me mariodurakovic99@gmail.com
